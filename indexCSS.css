@@ -1,0 +1,42 @@
+html
+
+body{
+    background-color: ghostwhite;
+    font-family: Georgia;
+}
+
+h1 {
+    color: maroon;
+    font-family: Helvetica;
+}
+
+h2{
+    color: darkgreen;
+    font-family: Helvetica;
+}
+
+h3 {
+    color: darkblue;
+    font-family: Helvetica;
+}
+
+h4 {
+    color: midnightblue;
+    font-family: Helvetica;
+}
+
+p{
+    font-family: Georgia;
+}
+
+ul{
+    font-family: Georgia;
+}
+
+li{
+    font-family: Georgia;
+}
+
+a{
+   font-style: inherit;
+}
